@@ -1,0 +1,19 @@
+.Colo {
+   /*  Dashboard css */
+   &::-webkit-scrollbar {
+      width: 6px;
+   }
+
+   &::-webkit-scrollbar-thumb {
+      background-color: white;
+      border-radius: 10px;
+
+      &::-webkit-scrollbar-track {
+         background-color: #244c73;
+         border-radius: 10px;
+      }
+
+      /* Firefox */
+      scrollbar-color: white #244c73;
+   }
+}

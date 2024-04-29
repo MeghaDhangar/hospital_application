@@ -1,0 +1,34 @@
+{
+   "name": "Dr. Sumit Jain",
+   "specialization": "Pediatric Cardiology",
+   "$schema": {
+      "speciality": "Laparoscopic and General Surgery",
+      "qualification": "MBBS, MS (General Surgery)",
+      "experience": "16 years",
+      "location": "CARE CHL Hospitals, Indore"
+   },
+
+   "contactNumber": "0731-47744111/4774116",
+   "bio": "Dr. Aalok Somani is currently practicing at CARE CHL Hospitals, Indore...",
+
+   "fieldsOfExperience": [
+      "Centre for Neurosciences",
+      "Centre for Transplant",
+      "Critical Care Unit",
+      "Department of Cardiology",
+      "Department of Orthopedics"
+   ],
+   "education": [
+      "MBBS 1995-2000 (MGM, Indore)",
+      "Internship 2002-2001 (MYH, Indore)",
+      "MS (Surgery) 2002-2005 (NSCB Medical College, Jabalpur)"
+   ],
+   "languagesKnown": ["Hindi", "English"],
+   "pastPositions": [
+      "Sr. Registrar Bombay Hospital, Indore",
+      "Assistant Professor SAIMS, Indore"
+   ],
+
+   "stillHaveQuestionText": "If you cannot find answers to your queries, please fill out the enquiry form or call the number below...",
+   "contactButtonText": "0731-47744111/4774116"
+}
